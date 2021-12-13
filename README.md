@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I am currently Studying CSE (2020-24)
 
 <!--
 **BlackShadow334/BlackShadow334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
